@@ -1,0 +1,25 @@
+.Wel{
+    text-align : center;
+    color: darkviolet;
+}
+body {
+    background-color: black;
+}
+.corner{
+    
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      
+}
+.lcorner{
+position: fixed;
+top : 0;
+left: 0;
+width : 90px;
+height : 90px;
+}
